@@ -1,6 +1,8 @@
 # Projects Deep Learning No. 1
 
-This is the project #1 in Deep Learning subsidiary of Machine Learning projects coded in Python using Google Colab as the platform. The purpose of this notebook is to build a classification model using neural networks to predict a student's chances of admission into UCLA. The data set contains 8 features:
+This is the project No. 1 in Deep Learning subsidiary of Machine Learning category. The prediction built in this project is binary classification, and one of the first stepping stones to more complex neural networks down the road.
+
+The purpose of this notebook is to build a classification model using neural networks to predict a student's chances of admission into UCLA. The data set contains 8 features:
   * GRE Scores: (out of 340)
   * TOEFL Scores: (out of 120)
   * University Rating: It indicates the Bachelor University ranking (out of 5)
