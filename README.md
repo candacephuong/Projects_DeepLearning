@@ -26,7 +26,7 @@ Once the data is treated and ready to be fed into the machine, there are many fa
 
 Note: This is a binary classification problem, as in there are only two output of this model: 0 or 1 (whether the student is admitted or not), so we will apply the ``` binary_crossentropy ``` as the minimizing loss function, while choosing ``` adam_max ``` as the popular optimizer.
 
-The output here that we're getting is the accuracy rate, representing how accurate the model I built is.
+The output here that we're getting is the accuracy rate, representing how accurately the model predicts.
 
 **Fourth: Model training**
 
