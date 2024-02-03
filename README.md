@@ -1,4 +1,4 @@
-# Projects Deep Learning No. 1
+# Projects Machine Learning: Deep Learning Pre-processing
 
 This is the project No. 1 in Deep Learning subsidiary of Machine Learning category. The prediction built in this project is binary classification, and one of the first stepping stones to more complex neural networks down the road.
 
