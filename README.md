@@ -12,6 +12,8 @@ The purpose of this notebook is to build a classification model using neural net
   * Research Experience: (either 0 or 1)
   * Chance of Admit: (ranging from 0 to 1)
 
+I obtained this dataset from my work-study period in 2023 attending the intensive course of Applied Data Science Program at MIT Professional Education.
+
 **First: Understand your data**
 
 The importance of this notebook is to focus on the data pre-processing steps that involve exploratory data analysis (EDA) and data visualization. EDA will help us understand each attribute characteristics and learn the statistical relationships among the attributes, while data visualization will help us spot trends and patterns, as well as, viewing these relationships on different plots.
